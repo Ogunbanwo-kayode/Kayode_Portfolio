@@ -1,6 +1,7 @@
 # Kayode_Portfolio
 Data Science Portfolio
-# [Project 1: Uber Trips Analysis] (https://github.com/Ogunbanwo-kayode/Kayode_Portfolio/blob/main/Analyzing%20Uber%20Trips%20Dataset.ipynb)
+# [Project 1: Uber Trips Analysis](https://github.com/Ogunbanwo-kayode/Kayode_Portfolio/blob/main/Analyzing%20Uber%20Trips%20Dataset.ipynb)
+
 Objectives of the Analysis:
 
 (1). Import the required libraries
