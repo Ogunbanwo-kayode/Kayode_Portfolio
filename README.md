@@ -1,2 +1,12 @@
 # Kayode_Portfolio
 Data Science Portfolio
+# Proect 1: Uber Trips Analysis.
+Objectives of the Analysis:
+
+(1). Import the required libraries
+
+(2). Load the dataset into a pandas dataframe
+
+(3). Examine the properties of the dataset
+
+(4). Perform EDA on the dataset to visualize the relationship between variables and draw relevant insghts
