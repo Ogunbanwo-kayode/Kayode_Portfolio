@@ -12,4 +12,4 @@ Objectives of the Analysis:
 
 (4). Perform EDA on the dataset to visualize the relationship between variables and draw relevant insghts
 
-![](https://github.com/Ogunbanwo-kayode/Kayode_Portfolio/blob/main/Images/Image%201.png)
+![](/Images/Image%201.png)
